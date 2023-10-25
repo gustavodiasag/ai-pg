@@ -1,6 +1,0 @@
-plotly
-yellowbrick
-numpy
-pandas
-seaborn
-matplotlib
